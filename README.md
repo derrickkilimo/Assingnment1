@@ -41,8 +41,24 @@ Project Description
     
 *********** END OF CHALLENGE 2 **************
 
+##Challenge 3:
+Net Salary Calculator
+Given the basic salary and benefits of an employee, write a program that would calculate the Payee Tax, NHIF, NSSF Deductions and net salary.
 
+Project title
+Net Salary Calculator 
 
+Project Description
+Calculate the Payee Tax, NHIF, NSSF Deductions and net salary.
+
+Project setup
+   Node JS
+    Javascript
+    VS Code 
+  run code:
+  node Challenge1.js
+    
+*********** END OF CHALLENGE 3 **************
 
 
 
