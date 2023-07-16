@@ -7,15 +7,44 @@
 Challenge 1:
   Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows:
 
-  #Project title
+  Project title
     Grade User Marks
 
 
-  #Project Description
+  Project Description
     Grading marks according to user inputs
 
-  #Project Setup
+  Project Setup
     Node JS
     Javascript
     VS Code
+  Run code:
+  node Challenge1.js
+*********** END OF CHALLENGE 1 **************
+
+
+##Challenge 2:
+Speed Detector
+Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+
+Project title
+  Speed Detector
+
+Project Description
+  Detects the speed limit of a vehicle 
+ Project Setup
+    Node JS
+    Javascript
+    VS Code 
+  run code:
+  node Challenge1.js
     
+*********** END OF CHALLENGE 2 **************
+
+
+
+
+
+
+
+
